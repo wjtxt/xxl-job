@@ -31,6 +31,7 @@
     </p>
 </p>
 
+## 采纳
 
 ## Introduction
 XXL-JOB is a distributed task scheduling framework. 
